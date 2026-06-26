@@ -30,6 +30,7 @@ ratings, and box office performance.
 
 ## Dataset
 IMDB Top 1000 Movies dataset from Kaggle
+Source: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
 ## Author
 Yash Pawar — BSc Data Science Student, MIT ACSC Alandi
