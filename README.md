@@ -32,4 +32,4 @@ ratings, and box office performance.
 IMDB Top 1000 Movies dataset from Kaggle
 
 ## Author
-Your Name — BSc Data Science Student, MIT ACSC Alandi
+Yash Pawar — BSc Data Science Student, MIT ACSC Alandi
